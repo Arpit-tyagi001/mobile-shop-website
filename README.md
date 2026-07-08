@@ -10,7 +10,6 @@ A modern, responsive business website built for a mobile retail store using **HT
 
 ### 🏠 Home Page
 
-> Replace with your screenshot
 
 ![Home](./images/home-preview.png)
 
