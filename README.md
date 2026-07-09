@@ -1,6 +1,6 @@
 # 📱 Mobile Shop Website
 
-A modern, responsive business website built for a mobile retail store using **HTML**, **CSS**, and **JavaScript**. The website provides an elegant user experience with smooth navigation, product showcases, repair service information, and WhatsApp-powered customer enquiries.
+A modern, responsive business website built for a mobile retail store using **HTML**, **CSS**, and **JavaScript**. The website provides an elegant user experience with smooth navigation, product showcases, repair service information, and WhatsApp-powered customer  enquiries.
 
 > 🚀 Built as a frontend project to practice responsive web design and JavaScript DOM manipulation.
 
